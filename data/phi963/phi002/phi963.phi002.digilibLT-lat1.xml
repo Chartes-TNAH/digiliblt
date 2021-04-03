@@ -86,7 +86,9 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="Hippolyte Souvay" when="2021-04-04">Réindentation du fichier. Correction de l'identifiant de la langue du profileDesc.</change>
+         <change who="Hippolyte Souvay" when="2021-04-04">Réindentation du fichier. Correction de
+            l'identifiant de la langue du profileDesc. Correction du pointeur CapiTainS vers les
+            sections.</change>
       </revisionDesc>
    </teiHeader>
    <text>
