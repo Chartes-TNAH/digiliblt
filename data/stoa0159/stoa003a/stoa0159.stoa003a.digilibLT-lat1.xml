@@ -82,7 +82,7 @@
          </langUsage>
       </profileDesc>
       <revisionDesc>
-         <change who="Jean Barré" when="2021-04-04">Correction du profileDesc, numerotation des paragraphes et ajout d'un revisionDesc.</change>
+         <change who="Jean Barré" when="2021-04-04">Correction du profileDesc, numerotation des paragraphes et ajout d'un revisionDesc. Le hooktest est valide</change>
       </revisionDesc>
 
    </teiHeader>
