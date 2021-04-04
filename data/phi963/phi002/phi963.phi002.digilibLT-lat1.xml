@@ -101,7 +101,7 @@
          <head>REGVLAE</head>
          <div type="section" n="1">
             <head>I. De nomine</head>
-               <p><milestone unit="row" n="riga 2 vol. V Keil"/>
+            <p><milestone unit="row" n="riga 2 vol. V Keil"/>
                <seg type="par" n="1"> Omnia nomina quinque vocalibus ablativo casu terminantur, ‛a’
                   ‛e’ ‛i’ ‛o’ ‛u’, id est quicquid declinaveris de nomine ablativum casum in has
                   litteras ducit, ut puta ‛haec Iulia ab hac Iulia’, ‛hic paries ab hoc pariete’,
@@ -166,8 +166,8 @@
                <seg type="par" n="15"> Genus neutrum in nominativo si habuerit ‛e’, in ‛i’
                   terminatur ablativus, ne dicas ‛ab hoc monile’, sed ‛ab hoc monili’, et ‛hoc mare
                   ab hoc mari’, non ‛ab hoc mare’: numquam enim genus neutrum quattuor casus similes
-                  habet, ut in nominativo ‛e’, sic in accusativo, sic in vocativo, sic in ablativo,
-                  .</seg>
+                  habet, ut in nominativo ‛e’, sic in accusativo, sic in vocativo, sic in
+                  ablativo,</seg>
                <seg type="par" n="16"> deinde quia in his nominibus generis neutri ablativo casui
                   adici debet ‛a’ littera et statim fieri nominativus pluralis, ut puta ‛ab hoc
                   monili’, adice ‛a’, ‛monilia’, ‛ab hoc sedili’ adice ‛a’, <milestone unit="page"
@@ -381,12 +381,11 @@
                   habuerit ‛is’ et sic pronuntia de ablativo <unclear/> si in ‛e’ exit. Sed si tibi
                   ablativus notus est et de genetivo dubitas, scito quia in ‛is’ exit cum in ‛e’
                   fuerit ablativus terminatus.</seg>
-               <seg type="par" n="61"> ‛Es’ si fuerit nominativus, in ‛e’ mittit
-                  ablativum.</seg>
-               <seg type="par" n="62"> ‛Is’ si fuerit nominativus, in genere
-                  masculino et in communi in ‛i’ mittunt ablativum, in ‛e’ vero mittunt cum genus
-                  femininum fuerit, ut ‛lis lite’, ‛vitis vite’, ‛cutis cute’, ‛cotis cote’.
-                     <milestone unit="page" n="p. 540 vol. V Keil"/> .</seg>
+               <seg type="par" n="61"> ‛Es’ si fuerit nominativus, in ‛e’ mittit ablativum.</seg>
+               <seg type="par" n="62"> ‛Is’ si fuerit nominativus, in genere masculino et in communi
+                  in ‛i’ mittunt ablativum, in ‛e’ vero mittunt cum genus femininum fuerit, ut ‛lis
+                  lite’, ‛vitis vite’, ‛cutis cute’, ‛cotis cote’. <milestone unit="page"
+                     n="p. 540 vol. V Keil"/> .</seg>
                <seg type="par" n="63"> ‛Os’ si fuerit nominativus, in ‛e’ mittunt ablativum, ut ‛dos
                   dote’, ‛mos more’, ‛os osse’.</seg>
                <seg type="par" n="64"> ‛Vs’ si fuerit nominativus <supplied>et</supplied> genetivum
@@ -432,7 +431,7 @@
                <seg type="par" n="72"> Ergo quantum necessitas temporis passa est regulas non parvas
                      <milestone unit="page" n="p. 541 vol. V Keil"/> nominum scripsimus. Pauca de
                   pronominibus dicamus, in quibus non ardua moles est.</seg>
-               </p>
+            </p>
          </div>
          <div type="section" n="2">
             <head>II. De pronomine</head>
@@ -513,8 +512,8 @@
                   rectam regulam, quod postea dicam.</seg>
                <seg type="par" n="2"> Verba tribus modis accipimus: dicimus verba pro fallacia, ut
                   puta ‛dedit mihi verba’; dicimus pro sermonibus quibusque, ut puta ‛fecit verba
-                  Cicero’; dicimus verba et haec quae per modos et tempora et personas declinamus.
-                  <lb/> .</seg>
+                  Cicero’; dicimus verba et haec quae per modos et tempora et personas
+                  declinamus.</seg>
                <seg type="par" n="3"> Principalia verba sunt autem activa, passiva, neutra,
                   communia, deponentia. De ceteris vero dicemus istis catholicis et generalibus
                   explicatis. Activa sunt quibus nos aliquid agere significamus, ut ‛lego legis
@@ -533,8 +532,7 @@
                   sunt activa, multa aeque passiva, non tanta neutralia nec communia nec deponentia.
                   Ac per hoc regula activorum passivorumque in immensum tenditur, ceterorum vero
                   verborum regulae a diligentibus colliguntur. <milestone unit="page"
-                     n="p. 543 vol. V Keil"/>
-                  <lb/> .</seg>
+                     n="p. 543 vol. V Keil"/>.</seg>
                <seg type="par" n="6"> Ergo diximus de generibus verborum, quot sint; nunc dicendum
                   de coniugationibus, per quarum regulas omnia verba sine offensione funduntur. Quas
                   coniugationes si quis diligenter animadverterit, quasi ex vado vitiorum emergens
@@ -551,8 +549,7 @@
                <seg type="par" n="9"> Dixi nihilominus ubi quaerendae sunt; restat quarta pars, quae
                   nos docet quare inventae sunt, id est ob quam utilitatem. Earum igitur utilitas
                   duplex est: docet te de futuro tempore, quando in ‛am’ syllabam exeat, quando in
-                  ‛bo’; docet iterum infinitum modum, quando corripiatur, quando producatur.<lb/>
-                  .</seg>
+                  ‛bo’; docet iterum infinitum modum, quando corripiatur, quando producatur.</seg>
                <seg type="par" n="10"> Ergo redeamus ad primam coniugationem et de eadem lucidius
                   tractemus. Prima coniugatio, quae est ‛a’, quaeritur in activis et neutralibus
                   verbis, ut diximus, ante novissimam litteram in secunda persona; venit ab his
@@ -587,24 +584,25 @@
                <seg type="par" n="15">Infinitum vero modum corripit, ut ‛legere’, ‛scribere‛,
                   ‛facere’, ‛ruere’, non, quem <milestone unit="page" n="p. 544 vol. V Keil"/>
                   admodum superiores producunt. Quantum exixstimo apertius dictum est de tertia
-                  correpta .</seg>
+                  correpta.</seg>
                <seg type="par" n="16">Nunc attende, quae sit ratio tertiae productae, vel quomodo
                   potest discerni a tertia correpta, cum utraque in uno ‛i’ constent, quod ante
                   novissimam litteram inventurus es, ut puta exempli gratia dicimus ‛fugio fugis’ et
                   ‛sentio sentis’: secundae personae ambarum formarum per ‛is’ exeunt quia et
                   ‛fugis’ per ‛is’ et ‛sentis’ per ‛is’; unde habet intellegi an correpta est tertia
-                  an producta? Sed intellegitur sic, id est de imperativo modo: </seg><seg
-                  type="par" n="17"> si exit in ‛i’ a tertia producta venit, ut ‛sentio sentis’
+                  an producta? Sed intellegitur sic, id est de imperativo modo:</seg>
+               <seg type="par" n="17"> si exit in ‛i’ a tertia producta venit, ut ‛sentio sentis’
                   imperativum ‛senti’, facit; ‛haurio hauris’, imperativum ‛hauri’, facit; ‛servio
                   servis’, imperativum ‛servi’ facit; tertia vero correpta, licet simili forma exeat
                   in secunda scilicet persona, tamen et haec discernitur de ipso imperativo, quem
                   semper in ‛e’ mittit, ut ‛fugio fugis’, ‛fuge’ facit, ‛scribo scribis‛ ‛scribe’
                   facit. Ergo discernuntur sic, quia correpta in ‛e’ mittit imperativum, producta in
-                  ‛i’.</seg><seg type="par" n="18"> Sed quid docet ipsa tertia producta? Attende
-                  futurum tempus: et in ‛am’ exit et in ‛bo’, sed magis in ‛am’, ut puta de futuro
-                  si dicamus et ‛serviam’ et ‛servibo’ et ‛nesciam’ et ‛nescibo’; sed magis in ‛am’
-                  mittit, ut dixi, quam in ‛bo’. Infinitum vero producit semper, ut puta ‛haurire’,
-                  ‛sentire’, ‛servire’, ‛nescire’.</seg>
+                  ‛i’.</seg>
+               <seg type="par" n="18"> Sed quid docet ipsa tertia producta? Attende futurum tempus:
+                  et in ‛am’ exit et in ‛bo’, sed magis in ‛am’, ut puta de futuro si dicamus et
+                  ‛serviam’ et ‛servibo’ et ‛nesciam’ et ‛nescibo’; sed magis in ‛am’ mittit, ut
+                  dixi, quam in ‛bo’. Infinitum vero producit semper, ut puta ‛haurire’, ‛sentire’,
+                  ‛servire’, ‛nescire’.</seg>
                <seg type="par" n="19"> Nam regula est ut imperativis modis activorum et neutralium
                   verborum, a quacumque coniugatione, addas ‛re’ syllabam et facit infinitum, ut
                   puta a prima coniugatione exit imperativus in ‛a’, ut ‛clama’, ‛voca’, ‛lania’,
@@ -644,8 +642,7 @@
                   quae mittit in ‛bor’, ut ‛verebor vereberis verebitur verebimur verebimini
                   verebuntur’ (commune est enim ut dicimus ‛vereor te’ et ‛vereor a te’); in
                   deponentibus, ut ‛medeor mederis, ante ‛ris’ ‛e’ invenies, quae mittit in ‛bor’,
-                  ut ‛medebor medeberis medeberis medebitur medebimur medebimini medebuntur’. <lb/>
-                  .</seg>
+                  ut ‛medebor medeberis medeberis medebitur medebimur medebimini medebuntur’.</seg>
                <seg type="par" n="26"> Remanet tertia coniugatio, cuius locum implevit ‛e’ littera
                   correpta, ut puta in passivis ‛legor legeris’: ante ‛ris’ ‛e’ est, sed quia
                   correptum est locum tenet pro ‛i’ ac per hoc, quoniam ‛e’ correptum est, quod
@@ -709,7 +706,6 @@
                   cetera quae locum significant; temporis, ut ‛hodie’, ‛cras’, ‛heri’ et cetera quae
                   tempus significant. Ab aliis adverbia veniunt aut nomine aut participio, ut a
                   ‛docto’ ‛docte’, a nomine a ‛iusto’ ‛iuste’.</seg>
-               <lb/>
                <seg type="par" n="2"> Sane adverbiorum biformis regula est: ablativo enim diriguntur
                   adverbia. Vnde si habuerit ‛o’ ablativus, adverbium in ‛e’ mittit, ut supra
                   diximus, a ‛docto’ ‛docte’, a ‛iusto’ ‛iuste’, a ‛pio’ ‛pie’, a ‛religioso’
