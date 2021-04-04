@@ -34,9 +34,9 @@
       </fileDesc>
       <encodingDesc>
          <refsDecl n="CTS">
-            <cRefPattern n="unknown" matchPattern="(\w+)"
-               replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:p[@n='$1'])">
-               <p>This pointer pattern extracts unknown</p>
+            <cRefPattern n="chapter" matchPattern="(\w+)"
+               replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:p[@n='$1'])">
+               <p>This pointer pattern extracts chapter</p>
             </cRefPattern>
          </refsDecl>
          <projectDesc>
@@ -85,12 +85,10 @@
    </teiHeader>
 
    <text>
-
-
       <body xml:lang="lat" n="urn:cts:latinLit:stoa0159.stoa003a.digilibLT-lat1">
          <div>
-            <p>Domino et filio karissimo Sisenando regi Gothorum Isidorus. </p>
-            <p>Quia de origine Gothorum Hispanorum Suevorum Vandalorum et Alanorum et qualiter
+            <p n="1">Domino et filio karissimo Sisenando regi Gothorum Isidorus. </p>
+            <p n="2">Quia de origine Gothorum Hispanorum Suevorum Vandalorum et Alanorum et qualiter
                rexerunt Hispaniam tibi fieri notitiam postulasti, in huius parte duximus laborandum
                atque tuae karitati prout possumus id scribendo breviter explanare. Tres filios Noe,
                id est Sem, Cham et Iapheth scriptura sacra esse testatur: ab ipsis quippe omnium
@@ -108,7 +106,6 @@
                tamen patria, sed regni honore caruerunt. Olim pro magna parte sui Romanis Hispania
                iam cesserat Bruto et Tolemone ducibus exercitus Romanorum. </p>
          </div>
-
       </body>
    </text>
 
