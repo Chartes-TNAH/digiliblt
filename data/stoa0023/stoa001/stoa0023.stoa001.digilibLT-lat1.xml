@@ -74,7 +74,7 @@
             <language ident="la">Latino</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc><change who="Emilien Arnaud" when="2021-04-29">correction du sys. de citation Capitains et des numéros des div de type="lib" </change></revisionDesc>
+      <revisionDesc><change who="Emilien Arnaud" when="2021-04-29">correction du sys. de citation Capitains et des numéros des div de  type="lib" </change></revisionDesc>
    </teiHeader>
    <text>
       <body xml:lang="lat" n="urn:cts:latinLit:stoa0023.stoa001.digilibLT-lat1">
